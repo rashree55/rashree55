@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I'm Rashree!<br><br>🔭 I’m currently a final yr student, passionate about Backend Engineering, Python automation, and applied AI projects.<br>💬 Ask me about Web development related stuff<br> 😄 Pronouns: She/Her<br>⚡ Fun fact: I love trying new thingss
+Hi there 👋<br><br>Nice meeting you, I'm Rashree!<br><br>🔭 I’m currently a final yr student, passionate about Backend Engineering, Python automation, and applied AI projects.<br>💬 Ask me about Web development related stuff, Currently I'm actively working on open source projects<br> 😄 Pronouns: She/Her<br>⚡ Fun fact: I love trying new thingss
 
 
 ## 🌐 Socials:
